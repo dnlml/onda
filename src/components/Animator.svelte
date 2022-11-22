@@ -20,8 +20,10 @@
 
 <style>
   .wrapper {
+    position: relative;
     background: linear-gradient(45deg, hsla(178, 75%, 75%, 1) 0%, hsla(278, 75%, 75%, 1) 100%);
     height: 100vh;
+    overflow: hidden;
     display: flex;
     align-items: center;
     justify-content: center;
